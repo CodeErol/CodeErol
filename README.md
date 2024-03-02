@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeErol&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Discord Profile:
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1134866458787184640?theme=highcontrast&hide)](https://discord.com/users/1134866458787184640)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1134866458787184640?theme=dark&bg=272727)](https://discord.com/users/1134866458787184640)
