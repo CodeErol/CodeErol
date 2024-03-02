@@ -12,3 +12,6 @@
 
 ## 🌐 Discord Profile:
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1134866458787184640?theme=dark&bg=272727)](https://discord.com/users/1134866458787184640)
+
+## 💫 Spotify:
+![spotify-github-profile](/img/novatorem.svg)
