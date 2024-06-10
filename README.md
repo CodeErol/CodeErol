@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeErol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Discord Profile:
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1134866458787184640?theme=dark&bg=272727)](https://discord.com/users/1134866458787184640)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1134866458787184640?theme=dark&bg=272727)](https://discord.com/users/999682581689794630)
 
 ## 💫 Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g4slw3ipfgm5og6zlui3j5fyky&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31g4slw3ipfgm5og6zlui3j5fyky&redirect=true)
