@@ -1,5 +1,5 @@
 # 💫 About Me:
-17 y.o.<br>Junior Front-End Developer<br>born in Turkey.<br>currently studying HTML ,CSS and JS.
+17 y.o.<br>Junior Front-End Developer<br>born in Turkey.<br>currently studying HTML ,CSS , PHP, Mysql and Python Studying.
 
 
 ## 🌐 Socials:
