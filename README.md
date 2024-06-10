@@ -1,5 +1,5 @@
 # 💫 About Me:
-17 y.o.<br>Junior Full-Stack Dev. Developer<br>born in Turkey.<br>currently studying HTML ,CSS , PHP, Mysql and Python Studying.
+17 y.o.<br>Junior Full-Stack Developer<br>born in Turkey.<br>currently studying HTML ,CSS , PHP, Mysql and Python Studying.
 
 
 ## 🌐 Socials:
